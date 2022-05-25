@@ -4,6 +4,12 @@ This a free API for developers to get football, basketball jerseys and other met
 
 ## API Reference
 
+#### Jersey Base URL
+
+```http
+ https://salty-forest-52253.herokuapp.com/
+```
+
 #### Get Best Selling Jerseys
 
 ```http
