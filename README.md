@@ -1,6 +1,6 @@
 # Jersey API
 
-This a free API for developers to get football, basketball jerseys and other meadata associated to each jerseys
+This a free API for developers to get football, basketball jerseys and other metadata associated to each jerseys
 
 ## API Reference
 
